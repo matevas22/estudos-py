@@ -25,7 +25,7 @@ Consolidar conhecimentos em Python através da prática constante e resolução 
 
 ### Debian/Ubuntu
 
-```bash
+```sh
 apt install python3
 ```
 
@@ -35,7 +35,7 @@ Baixe em [python.org](https://www.python.org/downloads/)
 
 ### Verificar instalação
 
-```bash
+```sh
 python3 --version
 ```
 
