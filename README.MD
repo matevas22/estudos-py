@@ -2,7 +2,7 @@
 
 Este repositório é dedicado a estudos de programação com Python, incluindo exercícios práticos e projetos de aprendizado. Aqui você encontrará soluções comentadas para diversos problemas, desde conceitos básicos até técnicas avançadas.
 
-## 📚 Conteúdo
+## Conteúdo
 
 - ✅ Exercícios de lógica de programação
 - ✅ Manipulação de estruturas de dados
@@ -10,17 +10,35 @@ Este repositório é dedicado a estudos de programação com Python, incluindo e
 - ✅ Tratamento de erros
 - ✅ Projetos integradores
 
-## 🚀 Como usar
+## Como usar
 
 1. Navegue pelos diretórios do repositório
 2. Estude os exercícios resolvidos e comentados
 3. Tente resolver os problemas antes de verificar as soluções
 4. Experimente modificações e melhorias nos códigos
 
-## 🎯 Objetivo
+## Objetivo
 
-Consolidar conhecimentos em Python através da prática constante e resolução de problemas reais, desenvolvendo habilidades de programação progressivamente.
+Consolidar conhecimentos em Python através da prática constante e resolução de problemas reais, desenvolvendo habilidades de programação de forma progressiva.
+
+## Instalação
+
+### Debian/Ubuntu
+
+```bash
+apt install python3
+```
+
+### Windows
+
+Baixe em [python.org](https://www.python.org/downloads/)
+
+### Verificar instalação
+
+```bash
+python3 --version
+```
 
 ---
 
-**Autor:** Mateus Vaz
+**Autor:** Mateus Vaz 🫡
