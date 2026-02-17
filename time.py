@@ -1,6 +1,9 @@
 from datetime import datetime
-data_string = datetime.now().strftime('%H:%M:%S')
-print(data_string)
+
+while True:
+    data_string = datetime.now().strftime('%H:%M:%S')
+    print(data_string, end='\r')
+
 
 
 
