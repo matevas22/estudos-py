@@ -18,4 +18,6 @@ for moeda in moedas:
     valor_centavos %= moeda_centavos
     print(f'{quantidades:.0f} moeda(s) de R$ {moeda:.2f}')
 
+nota_centavos = int(nota * 100)
+quantidade = valor_centavos // nota_centavos   
 
