@@ -10,3 +10,6 @@ for nota in notas:
     quantidade = valor // nota
     valor %= nota
     print(f"{quantidade} nota(s) de R$ {nota},00")
+    
+    print(2 ** 3)
+    
